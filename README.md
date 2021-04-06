@@ -1,15 +1,25 @@
 # R for Data Science
 
-**ACCESS**
+**1. ACCESS**
 
-**SUMMARIZE**
+**2. CLEANING**
 
-**TRANSFORM**
+  *2.1 Common problems*
+  
+  *2.2 Categorical and Text data**
+  
+  *2.3 Advanced data problems*
+  
+  *2.4 Record Linkage*
+  
+**3. SUMMARIZE**
 
-**EXPLORE**
+**4. TRANSFORM**
 
-**MODEL**
+**5. EXPLORE**
 
-**VISUALIZE**
+**6. MODEL**
 
-**PRESENT**
+**7. VISUALIZE**
+
+**8. PRESENT**
